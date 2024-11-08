@@ -31,3 +31,5 @@ def separate_vowels_consonants_sorted():
 
 # Run the program
 separate_vowels_consonants_sorted()
+#khgvkhjvkhjgvkhgvkhgvhkgvhkgvkhgvkhgvkhgvhkgvk
+#jhgfcjhgfkhfkhgfgkhjfgkjhgkjhgljg otgçirxjfljjk
